@@ -1,3 +1,4 @@
+![](https://github.com/sayevvv/sayevvv/blob/main/assets/f82213b334541c0a2e83e3bf733f881f.gif)
 
 - 👋 Hi, I’m @sayevvv
 - 👀 I’m an undergraduate Computer Science student, looking forward to my future career
