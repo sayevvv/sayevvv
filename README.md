@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm glad you're here. Let me introduce myself:
+Welcome to my GitHub profile! I'm Shamil
 
 ---
 
@@ -13,25 +13,9 @@ I'm a **Web Developer** passionate about building sleek and efficient web applic
 ### 💻 What I Code With:
 - **Frontend**: React + TypeScript
 - **Backend**: Laravel
-- **Full-Stack Development**: Merging the power of frontend and backend for seamless integration
 
 ### 🎨 My UI/UX Side Quest
 When I'm not coding, I love exploring the art and science of UI/UX design. Crafting intuitive and visually appealing interfaces is my creative outlet.
-
----
-
-## 🌟 Highlights
-- **⚛️ React TypeScript**: Building scalable and maintainable user interfaces
-- **📚 Laravel**: Creating robust backend systems
-- **🎨 UI/UX Enthusiast**: Bringing designs to life with a developer's perspective
-
----
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayevvv&show_icons=true&theme=radical)
-
-## 📊 Top Languages
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayevvv&layout=compact&theme=radical)
 
 ---
 
