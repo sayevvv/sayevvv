@@ -25,7 +25,7 @@ I'm always open to learning, collaborating, or just chatting about tech and desi
 - **LinkedIn**: [https://www.linkedin.com/in/shamilcoy/]
 - **Email**: shamilbasayev10@gmail.com
 
-Thanks for stopping by! 🚀
+Thanks for stopping by! 🚀👋
 
                                                                      ![](https://github.com/sayevvv/sayevvv/commit/6a47d91ff2dfae0f076cc3846cec88650f9a6a97)
 
