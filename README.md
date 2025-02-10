@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Shamil
+Hi! I'm Shamil
 
 ---
 
