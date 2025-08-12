@@ -15,22 +15,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayevvv&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shamilbasayev&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamilbasayev&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
----
-
 ### 🧠 Currently Learning
 - ⚛️ Advanced React + TypeScript
 - 📱 Mobile Dev with React Native
